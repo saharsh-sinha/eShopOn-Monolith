@@ -1,0 +1,7 @@
+{
+  "modules": [
+    {
+      "type": "eShopOn.Payment.Core.DependencyConfig, eShopOn.Payment.Core"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "modules": [
+    {
+      "type": "eShopOn.Basket.Core.DependencyConfig, eShopOn.Basket.Core"
+    }
+  ]
+}

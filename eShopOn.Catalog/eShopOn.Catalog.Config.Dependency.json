@@ -1,0 +1,7 @@
+{
+  "modules": [
+    {
+      "type": "eShopOn.Catalog.Core.DependencyConfig, eShopOn.Catalog.Core"
+    }
+  ]
+}
